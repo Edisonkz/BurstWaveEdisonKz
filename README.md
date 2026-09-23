@@ -11,9 +11,26 @@
 
 <br/>
 
-<!-- Reemplaza esta ruta por una captura de pantalla de tu escritorio cuando la tengas lista -->
-<!-- ![BurstWave Preview](screenshot.png) -->
+<div align="center">
+  <img src="assets/preview-animated.gif" alt="BurstWave Preview Animado" width="100%" />
+</div>
 
+<br/>
+
+</div>
+
+---
+
+## 📸 Demostración Visual
+
+| Hub Circular & Controles | Espectro Reactivo & Ondas |
+|:---:|:---:|
+| <img src="assets/preview-hub.png" width="380px" alt="Hub Circular" /> | <img src="assets/preview-spectrum.png" width="580px" alt="Espectro Reactivo" /> |
+
+<div align="center">
+  <img src="assets/preview-wide.png" alt="BurstWave Vista Panorámica Inferior" width="100%" />
+  <p><em>Vista panorámica inferior en KDE Plasma 6 con reproducción activa y efectos de espectro de audio.</em></p>
+  <p>🎬 <strong><a href="assets/burstwave-demo.mp4">Ver Video Demostración (MP4)</a></strong></p>
 </div>
 
 ---
