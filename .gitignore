@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups & temporary files
+*.bak
+*.bak-*
+*.tmp
+*~
+
+# Generated package
+*.plasmoid
+
+# OS & Editor files
+.directory
+.DS_Store
+.vscode/
+.idea/

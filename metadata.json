@@ -1,0 +1,27 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "EdisonKz"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "BurstWave: portada circular con ondas envolventes, anillo de carga y ráfaga eléctrica en los coros",
+        "Icon": "audio-volume-high",
+        "Id": "org.edisonkz.burstwave",
+        "License": "MIT",
+        "Name": "BurstWave",
+        "Version": "1.0.0",
+        "Website": "https://github.com/Edisonkz/BurstWaveEdisonKz"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-FormFactors": [
+        "desktop",
+        "horizontal",
+        "vertical",
+        "panel"
+    ]
+}

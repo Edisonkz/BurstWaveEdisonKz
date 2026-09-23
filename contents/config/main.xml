@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="numBars" type="Int"><label>Barras de espectro</label><default>28</default></entry>
+    <entry name="framerate" type="Int"><label>Fotogramas por segundo</label><default>60</default></entry>
+    <entry name="sensitivity" type="Int"><label>Sensibilidad CAVA</label><default>145</default></entry>
+    <entry name="noiseReduction" type="Double"><label>Reducción de ruido</label><default>0.62</default></entry>
+    <entry name="chargeSpeed" type="Double"><label>Velocidad de carga del anillo</label><default>1.4</default></entry>
+    <entry name="color1" type="String"><label>Color primario (cian)</label><default>#7dcfff</default></entry>
+    <entry name="color2" type="String"><label>Color secundario (morado)</label><default>#bb9af7</default></entry>
+    <entry name="burstColor" type="String"><label>Color de ráfaga</label><default>#f7768e</default></entry>
+  </group>
+</kcfg>
